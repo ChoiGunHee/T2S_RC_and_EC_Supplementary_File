@@ -6,7 +6,7 @@ This repository provides the supplementary material accompanying our survey of l
 
 ## Download
 
-**[View or download the supplementary material (PDF)](./supplementary_material.pdf)**
+**[View or download the supplementary material (PDF)](https://github.com/ChoiGunHee/T2S_RC_and_EC_Supplementary_File/blob/main/Supplement.pdf)**
 
 The PDF contains **34 pages** and four supplementary tables (S1–S4).
 
@@ -51,6 +51,6 @@ The PDF uses `UNK`/`U` for unresolved or undisclosed information. Recorded `API`
 
 If you use this inventory or its methodological assignments, please cite the associated survey:
 
-> *Text-to-SQL in the Era of Large Language Models: A Survey of Reasoning-Centric and Efficiency-Centric Approaches.*
+> **[Text-to-SQL in the Era of Large Language Models: A Survey of Reasoning-Centric and Efficiency-Centric Approaches.](https://www.mdpi.com/2079-9292/15/21/5003)**
 
 Full publication metadata and a formal citation can be added here once available.
